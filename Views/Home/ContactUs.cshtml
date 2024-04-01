@@ -1,25 +1,56 @@
-﻿
-@{
-    ViewData["Title"] = "ContactUs";
-}
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/Content/style.css">
+</head>
 
-<h1>ContactUs</h1>
 
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Surname</th>
-            <th>Email</th>
-            <th>Phone Number</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><input type="text" name="name" placeholder="Enter your name"></td>
-            <td><input type="text" name="surname" placeholder="Enter your surname"></td>
-            <td><input type="email" name="email" placeholder="Enter your email"></td>
-            <td><input type="tel" name="phone" placeholder="Enter your phone number"></td>
-        </tr>
-    </tbody>
-</table>
+
+
+<body>
+   
+
+  <!--  <form action="your_form_processing_page.html" method="post"> -->
+
+        <div class="contact-form">
+
+           <form >
+               <div class="row">
+
+                <div class="input-group">
+                    <input type="text" id="name" required>
+                    <label for="name"> Your Name</label>
+                </div>
+                <div class="input-group">
+                    <input type="text" id="number" required>
+                    <label for="number"> Phone.no</label>
+                </div>
+
+               </div>
+              
+                <div class="input-group">
+                    <input type="email" id="email" required>
+                    <label for="email">  Email id </label>
+                </div>
+                <div class="input-group">
+                    <textarea id="message" rows="8" required></textarea>
+                    <label for="name"> Your Message</label>
+                    <br>
+                    <button type="submit">  SUBMIT   </button>
+                </div>
+           </form>
+
+            
+        </div>
+ <!--  </form> -->
+
+    <footer class="footer">
+      
+    </footer>
+</body>
+
+
+</html>

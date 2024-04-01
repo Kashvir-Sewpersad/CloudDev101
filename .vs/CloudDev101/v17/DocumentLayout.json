@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\views\\home\\ourproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\ourproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\views\\home\\privacya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\privacya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashvir\\desktop\\varsity college\\year 2\\semester 1\\prog6221 - programming 2a\\code\\clouddev101\\models\\usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:models\\usertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T11:54:44.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:50:54.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T11:34:16.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacya.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\Privacya.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacya.cshtml",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\Privacya.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacya.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T11:33:57.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAqwDEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-22T10:15:33.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\OurProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OurProducts.cshtml",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\OurProducts.cshtml",
+              "RelativeToolTip": "Views\\Home\\OurProducts.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T12:26:58.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T12:24:57.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:57:09.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Models\\UserTable.cs",
+              "RelativeDocumentMoniker": "Models\\UserTable.cs",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Models\\UserTable.cs",
+              "RelativeToolTip": "Models\\UserTable.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:40:31.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kashvir\\Desktop\\Varsity College\\Year 2\\Semester 1\\PROG6221 - Programming 2A\\Code\\CloudDev101\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T11:33:26.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

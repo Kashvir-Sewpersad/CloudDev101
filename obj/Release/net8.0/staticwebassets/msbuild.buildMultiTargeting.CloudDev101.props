@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CloudDev101.props" />
+</Project>
