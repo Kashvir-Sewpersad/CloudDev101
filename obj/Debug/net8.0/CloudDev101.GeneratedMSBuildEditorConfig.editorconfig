@@ -17,51 +17,71 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CloudDev101
 build_property.RootNamespace = CloudDev101
-build_property.ProjectDir = C:\Users\Kashvir\Desktop\Varsity College\Year 2\Semester 1\PROG6221 - Programming 2A\Code\CloudDev101\
+build_property.ProjectDir = C:\Users\kashc\OneDrive\Desktop\CloudDev101\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kashvir\Desktop\Varsity College\Year 2\Semester 1\PROG6221 - Programming 2A\Code\CloudDev101
+build_property.MSBuildProjectDirectory = C:\Users\kashc\OneDrive\Desktop\CloudDev101
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Home/About.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Home/ContactUs.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Home/Index.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Home/OurProducts.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/OurProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPdXJQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Home/Privacya.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/Privacya.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Shared/Error.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Home/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Product/InsertProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbnNlcnRQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/_ViewImports.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/User/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/_ViewStart.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kashvir/Desktop/Varsity College/Year 2/Semester 1/PROG6221 - Programming 2A/Code/CloudDev101/Views/Shared/_Layout.cshtml]
+[C:/Users/kashc/OneDrive/Desktop/CloudDev101/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k548v233e3

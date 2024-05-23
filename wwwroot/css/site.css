@@ -124,18 +124,19 @@ body {
 
 
 }
-h3 {
+        h3 {
 
-    text-align: center;
-    font-size:30px;
-    margin:0;
-    padding-top : 10px;
+            text-align: center;
+            font-size:30px;
+            margin:0;
+            padding-top : 10px;
 
-}
-a {
-    text-decoration: none;
+        }
 
-}
+    a {
+        text-decoration: none;
+
+    }
 .gallery {
     display : flex;
     flex-wrap:wrap;

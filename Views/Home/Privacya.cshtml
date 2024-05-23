@@ -7,9 +7,37 @@
 <br>
 <br>
 <br>
+
+
 <p class="privacy-policy">
     
     At our quaint soap shop, we highly value your privacy.
     Our privacy policy is designed to safeguard your personal information, ensuring it remains secure and confidential.
     We collect only necessary data for processing orders and improving your shopping experience, never sharing or selling it to third parties. Rest assured, your trust is paramount to us. For detailed information on how we handle your data, please refer to our privacy terms and conditions available on our website.
     Thank you for entrusting us with your privacy.</p>
+
+
+
+   
+    @model CloudDevelopment.Models.UserTable;
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="text-center">
+    <h1 class="display-4">Login</h1>
+    <p>If you don't have an account <a href="https://localhost:7277/User/About">Sign Up</a> for a new account.</p>
+</div>
+
+<body>
+    <form asp-controller="User" asp-action="Privacy" method="post">
+        <p>Please enter your first name and email:</p>
+        <input type="text" name="name" placeholder="Name" required>
+        <input type="text" name="surname" placeholder="Surname" required>
+        <input type="text" name="email" placeholder="example@gmail.com" required>
+        <button type="submit">Submit</button>
+    </form>
+
+</body>

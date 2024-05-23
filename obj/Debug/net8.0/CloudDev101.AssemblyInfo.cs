@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudDev101")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa97c8f36d3c12ec47f386f90290e2f5265fb24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a70dc3fc00498bb35f898594c4ef935a97fa15fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudDev101")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudDev101")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
