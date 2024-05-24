@@ -15,10 +15,10 @@ namespace CloudDev101.Controllers
         {
             try
             {
-                var conString = Program.GetConnectionString();
+                var ConString = "Server=tcp:clouddev-sql-server101.database.windows.net,1433;Initial Catalog=clod-sql-DB;Persist Security Info=False;User ID=Kashvir;Password=BrunoCorral1234#;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
                 Console.WriteLine(userID);
                 Console.WriteLine(productID);
-                var con = new SqlConnection(conString);
+                var con = new SqlConnection(ConString);
                 var sql =
                     "INSERT INTO Transactions (TransactionID, UserID, ProductID, TransactionDate, Quantity, TotalAmount) VALUES (@TransactionID, @UserID, @ProductID, @TransactionDate, @Quantity, @TotalAmount)";
 

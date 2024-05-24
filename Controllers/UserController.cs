@@ -22,5 +22,10 @@ public class UserController : Controller
         return View(usrtbl);
     }
 
+    public IActionResult SignUp()
+    {
+        return View(); // This will make it visable on the webpage 
+    }
+
 
 }

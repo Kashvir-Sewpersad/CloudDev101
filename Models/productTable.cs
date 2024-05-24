@@ -56,30 +56,30 @@ public class ProductTable
     public static SqlConnection Con = new(ConString);
 
 
-    public int ProductId { get; set; }
+    public int ProductID { get; set; }
 
-    public string ProductName { get; set; }
+    public string productName { get; set; }
 
-    public string Description { get; set; }
+    public string Category { get; set; }
 
     public decimal Price { get; set; }
 
-    public int QuantityInStock { get; set; }
+    public int Availability { get; set; }
 
 
     public int insert_product(ProductTable p)
     {
         try
         {
-            const string sql = "INSERT INTO Products (ProductID, ProductName, Description, Price, QuantityInStock) VALUES (@ProductID, @ProductName, @Description, @Price, @QuantityInStock )";
+            const string sql = "INSERT INTO productTable (productName, Price, Category, Availability, ProductID) VALUES (@productName, @Price, @Category, @Availability, @ProductID)";
             var cmd = new SqlCommand(sql, Con);
             var random = new Random();
             var randomNumber = random.Next(1, 1001);
             cmd.Parameters.AddWithValue(@"ProductID", randomNumber);
-            cmd.Parameters.AddWithValue("@ProductName", p.ProductName);
-            cmd.Parameters.AddWithValue("@Description", p.Description);
+            cmd.Parameters.AddWithValue("@productName", p.productName);
             cmd.Parameters.AddWithValue("@Price", p.Price);
-            cmd.Parameters.AddWithValue("@QuantityInStock", p.QuantityInStock);
+            cmd.Parameters.AddWithValue("@Category", p.Category);
+            cmd.Parameters.AddWithValue("@Availability", p.Availability);
             Con.Open();
             var rowsAffected = cmd.ExecuteNonQuery();
             Con.Close();
@@ -100,7 +100,7 @@ public class ProductTable
         var products = new List<ProductTable>();
 
         using var con = new SqlConnection(ConString);
-        const string sql = "SELECT * FROM Products";
+        const string sql = "SELECT * FROM productTable";
         var cmd = new SqlCommand(sql, con);
 
         con.Open();
@@ -109,11 +109,11 @@ public class ProductTable
         {
             var product = new ProductTable
             {
-                ProductId = Convert.ToInt32(rdr["ProductID"]),
-                ProductName = rdr["ProductName"].ToString(),
+                ProductID = Convert.ToInt32(rdr["ProductID"]),
+                productName = rdr["ProductName"].ToString(),
                 Price = Convert.ToInt32(rdr["Price"]),
-                Description = rdr["Description"].ToString(),
-                QuantityInStock = Convert.ToInt32(rdr["QuantityInStock"])
+                Category = rdr["Category"].ToString(),
+                Availability = Convert.ToInt32(rdr["Availability"])
             };
 
             products.Add(product);

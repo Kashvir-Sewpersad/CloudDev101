@@ -50,10 +50,10 @@ public class LoginModel
     {
         var userId = -1; // Default value if user is not found
         using var con = new SqlConnection(ConString);
-        const string sql = "SELECT userID FROM Users WHERE Email = @Email AND FirstName = @Name";
+        const string sql = "SELECT userID FROM userTable WHERE userEmail = @userEmail AND userName = @userName";
         var cmd = new SqlCommand(sql, con);
-        cmd.Parameters.AddWithValue("@Email", email);
-        cmd.Parameters.AddWithValue("@Name", name);
+        cmd.Parameters.AddWithValue("@userEmail", email);
+        cmd.Parameters.AddWithValue("@userName", name);
         try
         {
             con.Open();

@@ -20,7 +20,7 @@
 
 <h2>Product List:</h2>
 
-<table class="table">
+<table style="color: white; "class="table">
     <thead>
         <tr>
             <th>Name</th>
@@ -34,14 +34,14 @@
         @foreach (var product in products)
         {
             <tr>
-                <td>@product.ProductName</td>
+                <td>@product.productName</td>
                 <td>@product.Price</td>
-                <td>@product.Description</td>
-                <td>@product.QuantityInStock</td>
+                <td>@product.Category</td>
+                <td>@product.Availability</td>
                 <td>
                     <form asp-controller="Transaction" class="product-form" asp-action="PlaceOrder" method="post">
                         <input type="hidden" name="userID" value="@userId" />
-                        <input type="hidden" name="productID" value="@product.ProductId" />
+                        <input type="hidden" name="productID" value="@product.ProductID" />
                         <input type="hidden" name="Price" value="@product.Price" />
                         <button class="product-button" type="submit"> Place Order </button>
                     </form>

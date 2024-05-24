@@ -29,8 +29,9 @@ namespace CloudDevelopment.Controllers
 
             if (userID != -1)
             {
-                
-                return RedirectToAction("Index", "Home", new { userID = userID });
+
+                //return RedirectToAction("Index", "Home", new { userID = userID });
+                return RedirectToAction("Products", "Home", new { userID = userID });
             }
 
 

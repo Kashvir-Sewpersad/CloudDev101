@@ -62,23 +62,24 @@ public class UserTable
     public static SqlConnection Con = new(ConString);
 
 
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    public string Email { get; set; }
+    public string userName { get; set; }
+    public string userSurname { get; set; }
+    public string userEmail { get; set; }
 
 
     public int insert_User(UserTable m)
     {
         try
         {
-            const string sql = "INSERT INTO Users (UserID, FirstName, LastName, Email) VALUES (@UserID, @FirstName, @LastName, @Email)";
+            const string sql = "INSERT INTO userTable (userName, userSurname, userEmail) VALUES (@userName, @userSurname, @userEmail)";
+            //const string sql = "INSERT INTO userTable (userID, userName, userSurname, userEmail) VALUES (@userID, @userName, @userSurname, @userEmail)";
             var cmd = new SqlCommand(sql, Con);
             var random = new Random();
             var randomNumber = random.Next(1, 1001);
-            cmd.Parameters.AddWithValue("@UserID", randomNumber);
-            cmd.Parameters.AddWithValue("@FirstName", m.FirstName);
-            cmd.Parameters.AddWithValue("@LastName", m.LastName);
-            cmd.Parameters.AddWithValue("@Email", m.Email);
+            //cmd.Parameters.AddWithValue("@userID", randomNumber);
+            cmd.Parameters.AddWithValue("@userName", m.userName);
+            cmd.Parameters.AddWithValue("@userSurname", m.userSurname);
+            cmd.Parameters.AddWithValue("@userEmail", m.userEmail);
             Con.Open();
             var rowsAffected = cmd.ExecuteNonQuery();
             Con.Close();
