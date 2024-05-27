@@ -3,60 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashc\\onedrive\\desktop\\clouddev101\\views\\home\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\privacya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\privacya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\ourproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\ourproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\product\\insertproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\product\\insertproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|c:\\users\\kashc\\onedrive\\desktop\\clouddev101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\ourproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\ourproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\privacya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\privacya.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,16 +51,36 @@
       "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:views\\home\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\models\\productdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:models\\productdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48018EE1-82FA-4A69-B3D9-29BB14D36BBB}|CloudDev101.csproj|C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,59 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Privacya.cshtml",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Privacya.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacya.cshtml",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Privacya.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacya.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T08:39:22.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OurProducts.cshtml",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\OurProducts.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\OurProducts.cshtml",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\OurProducts.cshtml",
-              "RelativeToolTip": "Views\\Home\\OurProducts.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T08:10:52.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:27:05.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductDisplayModel.cs",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\ProductDisplayModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProductDisplayModel.cs",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\ProductDisplayModel.cs",
-              "RelativeToolTip": "Models\\ProductDisplayModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:23:32.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -154,43 +110,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAApwA0AAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T12:18:01.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAcwFsAAAAJAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAwFsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T11:23:55.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAABuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T11:21:20.564Z"
+              "WhenOpened": "2024-05-23T11:21:20.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\User\\SignUp.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\SignUp.cshtml",
@@ -202,104 +159,166 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "InsertProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Product\\InsertProducts.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\InsertProducts.cshtml",
               "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Product\\InsertProducts.cshtml",
               "RelativeToolTip": "Views\\Product\\InsertProducts.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:32:06.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Products.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Products.cshtml",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Products.cshtml",
-              "RelativeToolTip": "Views\\Home\\Products.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:25:59.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Orders.cshtml",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Orders.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Orders.cshtml",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Orders.cshtml",
-              "RelativeToolTip": "Views\\Home\\Orders.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:25:29.25Z",
+              "WhenOpened": "2024-05-22T19:32:06.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
               "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-22T19:24:42.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAqwE0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:27:14.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Transactions.cs",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\Transactions.cs",
-              "RelativeDocumentMoniker": "Models\\Transactions.cs",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\Transactions.cs",
-              "RelativeToolTip": "Models\\Transactions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:25:41.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "Controllers\\TransactionController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:19:56.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEBAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-15T17:10:57.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "Privacya.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Privacya.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacya.cshtml",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Privacya.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacya.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:39:22.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OurProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\OurProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OurProducts.cshtml",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\OurProducts.cshtml",
+              "RelativeToolTip": "Views\\Home\\OurProducts.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:10:52.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:25:59.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\ProductDisplayModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDisplayModel.cs",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\ProductDisplayModel.cs",
+              "RelativeToolTip": "Models\\ProductDisplayModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:23:32.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:27:05.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwDcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T08:33:25.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Orders.cshtml",
+              "RelativeToolTip": "Views\\Home\\Orders.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:25:29.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:27:14.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\Transactions.cs",
+              "RelativeDocumentMoniker": "Models\\Transactions.cs",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\Transactions.cs",
+              "RelativeToolTip": "Models\\Transactions.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:41.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:19:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginModel.cs",
@@ -311,19 +330,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "productTable.cs",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\productTable.cs",
               "RelativeDocumentMoniker": "Models\\productTable.cs",
               "ToolTip": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Models\\productTable.cs",
               "RelativeToolTip": "Models\\productTable.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAD4vzUAAAAlAQAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAIAxwDUAAAAlAQAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T13:52:08.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kashc\\OneDrive\\Desktop\\CloudDev101\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
